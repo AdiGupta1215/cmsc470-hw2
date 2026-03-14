@@ -41,7 +41,8 @@ class UnigramFeatureExtractor(FeatureExtractor):
     
     def extract_features(self, sentence, add_to_indexer = False):
         features = Counter()
-        for word in sentence:
+        words =  [w.lower() for w in sentence if w.isalpha()]
+        for word in words:
             if(add_to_indexer):
                 idx = self.indexer.add_and_get_index(word)
             else:
@@ -61,7 +62,9 @@ class BigramFeatureExtractor(FeatureExtractor):
         return self.indexer
     def extract_features(self, sentence, add_to_indexer = False):
         features = Counter()
-        padded = ["<s>"] + sentence + ["</s>"]
+        words =  [w.lower() for w in sentence if w.isalpha()]
+
+        padded = ["<s>"] + words + ["</s>"]
         for i in range(len(padded)-1):
             if add_to_indexer:
                 idx = self.indexer.add_and_get_index(padded[i] + "|" + padded[i+1])
@@ -78,7 +81,7 @@ class BetterFeatureExtractor(FeatureExtractor):
 
     def __init__(self, indexer: Indexer):
         self.indexer =indexer
-        self.min_freq = 2
+        self.min_freq = 3
         self.min_freq_bigram = 2
         self.stopwords = set(stopwords.words('english'))
         self.word_counts = Counter()
@@ -181,7 +184,7 @@ def train_perceptron(train_exs: List[SentimentExample], feat_extractor: FeatureE
     def score(features):
         return sum(weights[f] * v for f, v in features.items())
     
-    for epoch in range(1, 21):
+    for epoch in range(1, 31):
         stepsize = 1
         np.random.shuffle(train_exs)
         for ex in train_exs:
