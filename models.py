@@ -179,6 +179,8 @@ class LogisticRegressionClassifier(SentimentClassifier):
         return 1 if self.score(features)> 0 else 0
 
 
+
+
 def train_perceptron(train_exs: List[SentimentExample], feat_extractor: FeatureExtractor) -> PerceptronClassifier:
     """
     Train a classifier with the perceptron.
@@ -192,7 +194,7 @@ def train_perceptron(train_exs: List[SentimentExample], feat_extractor: FeatureE
     
     def score(features):
         return sum(weights[f] * v for f, v in features.items())
-    
+ 
     for epoch in range(1, 31):
         stepsize = 1
         np.random.shuffle(train_exs)
@@ -232,8 +234,11 @@ def train_logistic_regression(train_exs: List[SentimentExample], feat_extractor:
         return sum(weights[f] * v for f, v in features.items())
     def sigmoid(z):
         return 1 / (1 + np.exp(-z))
-
-    for epoch in range(1, 30):
+    
+    epochs = 20
+    ll = 0
+    
+    for epoch in range(1, epochs+1):
         stepsize =.08/epoch
         np.random.shuffle(train_exs)
         for ex in train_exs:
@@ -241,15 +246,12 @@ def train_logistic_regression(train_exs: List[SentimentExample], feat_extractor:
             p = sigmoid(score(features))
             for f, value in features.items():
                 weights[f] += (ex.label - p) * value * stepsize
-                
-                
-    indexer = feat_extractor.get_indexer()
-    word_weights = [(indexer.get_object(i), w) for i, w in weights.items()]
-    word_weights.sort(key=lambda x: x[1])
-
-    lowest = [w for w,i in word_weights[:10]]
-    highest =[w for w,i in word_weights[-10:]]
-    print(f"lowest: {lowest}\nhighest: {highest}")
+            if epoch==epochs:
+                y = ex.label
+                p = np.clip(p, 1e-12, 1-1e-12)
+                ll+= y*np.log(p)+(1-y)*np.log(1-p)
+                     
+    print(f"ll: {ll}")            
     return LogisticRegressionClassifier(feat_extractor, weights)
 
 
