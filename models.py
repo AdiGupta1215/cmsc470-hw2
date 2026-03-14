@@ -5,6 +5,7 @@ from utils import *
 
 from nltk.corpus import stopwords
 from collections import Counter
+import numpy as np
 
 class FeatureExtractor(object):
     """
@@ -166,8 +167,16 @@ class LogisticRegressionClassifier(SentimentClassifier):
     superclass. Hint: you'll probably need this class to wrap both the weight vector and featurizer -- feel free to
     modify the constructor to pass these in.
     """
-    def __init__(self):
-        raise Exception("Must be implemented")
+    def __init__(self, feature_extractor, weights):
+        self.weights = weights 
+        self.feature_extractor = feature_extractor
+        self.loglikelihood = 0
+    
+    def score(self, features):
+        return sum(self.weights[f] * v for f, v in features.items())
+    def predict(self, sentence):
+        features = self.feature_extractor.extract_features(sentence, add_to_indexer=False)
+        return 1 if self.score(features)> 0 else 0
 
 
 def train_perceptron(train_exs: List[SentimentExample], feat_extractor: FeatureExtractor) -> PerceptronClassifier:
@@ -241,7 +250,7 @@ def train_logistic_regression(train_exs: List[SentimentExample], feat_extractor:
     lowest = [w for w,i in word_weights[:10]]
     highest =[w for w,i in word_weights[-10:]]
     print(f"lowest: {lowest}\nhighest: {highest}")
-    return PerceptronClassifier(feat_extractor, weights)
+    return LogisticRegressionClassifier(feat_extractor, weights)
 
 
 def train_model(args, train_exs: List[SentimentExample], dev_exs: List[SentimentExample]) -> SentimentClassifier:

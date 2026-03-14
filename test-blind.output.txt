@@ -4,7 +4,7 @@
 
 1	Offers that rare combination of entertainment and education .
 
-1	Perhaps no picture ever made has more literally showed that the road to hell is paved with good intentions .
+0	Perhaps no picture ever made has more literally showed that the road to hell is paved with good intentions .
 
 0	Steers turns in a snappy screenplay that curls at the edges ; it 's so clever you want to hate it .
 
@@ -14,7 +14,7 @@
 
 1	This is a film well worth seeing , talking and singing heads and all .
 
-0	What really surprises about Wisegirls is its low-key quality and genuine tenderness .
+1	What really surprises about Wisegirls is its low-key quality and genuine tenderness .
 
 1	-LRB- Wendigo is -RRB- why we go to the cinema : to be fed through the eye , the heart , the mind .
 
@@ -42,7 +42,7 @@
 
 1	At about 95 minutes , Treasure Planet maintains a brisk pace as it races through the familiar story .
 
-0	However , it lacks grandeur and that epic quality often associated with Stevenson 's tale as well as with earlier Disney efforts .
+1	However , it lacks grandeur and that epic quality often associated with Stevenson 's tale as well as with earlier Disney efforts .
 
 0	It helps that Lil Bow Wow ... tones down his pint-sized gangsta act to play someone who resembles a real kid .
 
@@ -52,7 +52,7 @@
 
 0	If there 's a way to effectively teach kids about the dangers of drugs , I think it 's in projects like the -LRB- unfortunately R-rated -RRB- Paid .
 
-0	While it would be easy to give Crush the new title of Two Weddings and a Funeral , it 's a far more thoughtful film than any slice of Hugh Grant whimsy .
+1	While it would be easy to give Crush the new title of Two Weddings and a Funeral , it 's a far more thoughtful film than any slice of Hugh Grant whimsy .
 
 1	Though everything might be literate and smart , it never took off and always seemed static .
 
@@ -64,7 +64,7 @@
 
 1	Like most Bond outings in recent years , some of the stunts are so outlandish that they border on being cartoonlike .
 
-0	Newton draws our attention like a magnet , and acts circles around her better known co-star , Mark Wahlberg .
+1	Newton draws our attention like a magnet , and acts circles around her better known co-star , Mark Wahlberg .
 
 0	The story loses its bite in a last-minute happy ending that 's even less plausible than the rest of the picture .
 
@@ -104,9 +104,9 @@
 
 1	The invincible Werner Herzog is alive and well and living in LA
 
-0	Son of the Bride may be a good half-hour too long but comes replete with a flattering sense of mystery and quietness .
+1	Son of the Bride may be a good half-hour too long but comes replete with a flattering sense of mystery and quietness .
 
-1	A simmering psychological drama in which the bursts of sudden violence are all the more startling for the slow buildup that has preceded them .
+0	A simmering psychological drama in which the bursts of sudden violence are all the more startling for the slow buildup that has preceded them .
 
 1	A taut , intelligent psychological drama .
 
@@ -142,7 +142,7 @@
 
 0	The movie is a blast of educational energy , as bouncy animation and catchy songs escort you through the entire 85 minutes .
 
-0	A sports movie with action that 's exciting on the field and a story you care about off it .
+1	A sports movie with action that 's exciting on the field and a story you care about off it .
 
 1	Doug Liman , the director of Bourne , directs the traffic well , gets a nice wintry look from his locations , absorbs us with the movie 's spycraft and uses Damon 's ability to be focused and sincere .
 
@@ -152,7 +152,7 @@
 
 1	Like the film 's almost anthropologically detailed realization of early - '80s suburbia , it 's significant without being overstated .
 
-0	While McFarlane 's animation lifts the film firmly above the level of other coming-of-age films ... it 's also so jarring that it 's hard to get back into the boys ' story .
+1	While McFarlane 's animation lifts the film firmly above the level of other coming-of-age films ... it 's also so jarring that it 's hard to get back into the boys ' story .
 
 0	If nothing else , this movie introduces a promising , unusual kind of psychological horror .
 
@@ -160,7 +160,7 @@
 
 1	But in Imax 3-D , the clichés disappear into the vertiginous perspectives opened up by the photography .
 
-0	Writer-director Burger imaginatively fans the embers of a dormant national grief and curiosity that has calcified into chronic cynicism and fear .
+1	Writer-director Burger imaginatively fans the embers of a dormant national grief and curiosity that has calcified into chronic cynicism and fear .
 
 1	... a roller-coaster ride of a movie
 
@@ -172,7 +172,7 @@
 
 1	On the surface , it 's a lovers-on-the-run crime flick , but it has a lot in common with Piesiewicz 's and Kieslowski 's earlier work , films like The Double Life of Veronique .
 
-1	The values that have held the Enterprise crew together through previous adventures and perils do so again-courage , self-sacrifice and patience under pressure .
+0	The values that have held the Enterprise crew together through previous adventures and perils do so again-courage , self-sacrifice and patience under pressure .
 
 0	If it 's possible for a sequel to outshine the original , then SL2 does just that .
 
@@ -190,7 +190,7 @@
 
 1	A mostly intelligent , engrossing and psychologically resonant suspenser .
 
-0	In scope , ambition and accomplishment , Children of the Century ... takes Kurys ' career to a whole new level .
+1	In scope , ambition and accomplishment , Children of the Century ... takes Kurys ' career to a whole new level .
 
 1	This may not have the dramatic gut-wrenching impact of other Holocaust films , but it 's a compelling story , mainly because of the way it 's told by the people who were there .
 
@@ -224,7 +224,7 @@
 
 1	But what spectacular sizzle it is !
 
-1	... In this incarnation its fizz is infectious .
+0	... In this incarnation its fizz is infectious .
 
 1	An original gem about an obsession with time .
 
@@ -234,15 +234,15 @@
 
 1	The film overcomes the regular minefield of coming-of-age cliches with potent doses of honesty and sensitivity .
 
-1	If your senses have n't been dulled by slasher films and gorefests , if you 're a connoisseur of psychological horror , this is your ticket .
+0	If your senses have n't been dulled by slasher films and gorefests , if you 're a connoisseur of psychological horror , this is your ticket .
 
-0	It 's a minor comedy that tries to balance sweetness with coarseness , while it paints a sad picture of the singles scene .
+1	It 's a minor comedy that tries to balance sweetness with coarseness , while it paints a sad picture of the singles scene .
 
 1	It is intensely personal and yet -- unlike Quills -- deftly shows us the temper of the times .
 
 1	As lo-fi as the special effects are , the folks who cobbled Nemesis together indulge the force of humanity over hardware in a way that George Lucas has long forgotten .
 
-1	Like Mike does n't win any points for originality .
+0	Like Mike does n't win any points for originality .
 
 1	It does succeed by following a feel-good formula with a winning style , and by offering its target audience of urban kids some welcome role models and optimism .
 
@@ -262,7 +262,7 @@
 
 1	Here 's a British flick gleefully unconcerned with plausibility , yet just as determined to entertain you .
 
-0	It 's an old story , but a lively script , sharp acting and partially animated interludes make Just a Kiss seem minty fresh .
+1	It 's an old story , but a lively script , sharp acting and partially animated interludes make Just a Kiss seem minty fresh .
 
 1	Must be seen to be believed .
 
@@ -284,7 +284,7 @@
 
 1	A solidly seaworthy chiller .
 
-0	If you can get past the fantastical aspects and harsh realities of `` The Isle '' you 'll get a sock-you-in-the-eye flick that is a visual tour-de-force and a story that is unlike any you will likely see anywhere else .
+1	If you can get past the fantastical aspects and harsh realities of `` The Isle '' you 'll get a sock-you-in-the-eye flick that is a visual tour-de-force and a story that is unlike any you will likely see anywhere else .
 
 1	There are as many misses as hits , but ultimately , it finds humor in the foibles of human behavior , and it 's a welcome return to the roots of a genre that should depend on surprises .
 
@@ -324,7 +324,7 @@
 
 1	Britney has been delivered to the big screen safe and sound , the way we like our 20-year-old superstar girls to travel on the fame freeway .
 
-1	Those outside show business will enjoy a close look at people they do n't really want to know .
+0	Those outside show business will enjoy a close look at people they do n't really want to know .
 
 1	Watching Beanie and his gang put together his slasher video from spare parts and borrowed materials is as much fun as it must have been for them to make it .
 
@@ -344,7 +344,7 @@
 
 0	My goodness , Queen Latifah has a lot to offer and she seemed to have no problem flaunting her natural gifts .
 
-1	She must have a very strong back .
+0	She must have a very strong back .
 
 1	A smart , sweet and playful romantic comedy .
 
@@ -362,7 +362,7 @@
 
 0	Narc may not get an ` A ' for originality , but it wears its B-movie heritage like a badge of honor .
 
-0	With the film 's striking ending , one realizes that we have a long way to go before we fully understand all the sexual permutations involved .
+1	With the film 's striking ending , one realizes that we have a long way to go before we fully understand all the sexual permutations involved .
 
 1	-LRB- Drumline -RRB- is entertaining for what it does , and admirable for what it does n't do .
 
@@ -376,7 +376,7 @@
 
 0	Now trimmed by about 20 minutes , this lavish three-year-old production has enough grandeur and scale to satisfy as grown-up escapism .
 
-0	We get some truly unique character studies and a cross-section of Americana that Hollywood could n't possibly fictionalize and be believed .
+1	We get some truly unique character studies and a cross-section of Americana that Hollywood could n't possibly fictionalize and be believed .
 
 1	Daring , mesmerizing and exceedingly hard to forget .
 
@@ -400,7 +400,7 @@
 
 1	Elling , portrayed with quiet fastidiousness by Per Christian Ellefsen , is a truly singular character , one whose frailties are only slightly magnified versions of the ones that vex nearly everyone .
 
-0	Denis and co-writer Michele Petin 's impeccable screenplay penetrates with a rawness that that is both unflinching and tantalizing .
+1	Denis and co-writer Michele Petin 's impeccable screenplay penetrates with a rawness that that is both unflinching and tantalizing .
 
 1	Lead provocatuers Testud and Parmentier give superlative performances
 
@@ -418,7 +418,7 @@
 
 1	A triumph of art direction over narrative , but what art direction !
 
-1	Jirí Hubac 's script is a gem .
+0	Jirí Hubac 's script is a gem .
 
 1	His characters are engaging , intimate and the dialogue is realistic and greatly moving .
 
@@ -448,7 +448,7 @@
 
 1	The director , Steven Shainberg , has succeeded by focusing intently on his characters , making them quirky individuals rather than figures of fun .
 
-0	The movie has a soft , percolating magic , a deadpan suspense .
+1	The movie has a soft , percolating magic , a deadpan suspense .
 
 1	A well-made and often lovely depiction of the mysteries of friendship .
 
@@ -458,7 +458,7 @@
 
 1	Has it ever been possible to say that Williams has truly inhabited a character ?
 
-1	By presenting an impossible romance in an impossible world , Pumpkin dares us to say why either is impossible -- which forces us to confront what 's possible and what we might do to make it so .
+0	By presenting an impossible romance in an impossible world , Pumpkin dares us to say why either is impossible -- which forces us to confront what 's possible and what we might do to make it so .
 
 1	An impressive debut for first-time writer-director Mark Romanek , especially considering his background is in music video .
 
@@ -474,7 +474,7 @@
 
 1	Münch 's genuine insight makes the film 's occasional overindulgence forgivable .
 
-1	If you 're like me , a sucker for a good old fashion romance and someone who shamelessly loves to eat , then Mostly Martha offers all the perfect ingredients to more than satisfy your appetite .
+0	If you 're like me , a sucker for a good old fashion romance and someone who shamelessly loves to eat , then Mostly Martha offers all the perfect ingredients to more than satisfy your appetite .
 
 1	The film has just enough of everything -- re-enactments , archival footage , talking-head interviews -- and the music is simply sublime .
 
@@ -492,7 +492,7 @@
 
 1	Who knows what exactly Godard is on about in this film , but his words and images do n't have to add up to mesmerize you .
 
-0	The tone is balanced , reflective and reasonable .
+1	The tone is balanced , reflective and reasonable .
 
 1	The principals in this cast are all fine , but Bishop and Stevenson are standouts .
 
@@ -508,7 +508,7 @@
 
 1	Intriguing and beautiful film , but those of you who read the book are likely to be disappointed .
 
-1	The New Guy does have a heart .
+0	The New Guy does have a heart .
 
 0	Now , if it only had a brain .
 
@@ -536,7 +536,7 @@
 
 0	Roman Coppola may never become the filmmaker his Dad was , but heck -- few filmmakers will .
 
-1	But based on CQ , I 'll certainly be keeping an eye out for his next project .
+0	But based on CQ , I 'll certainly be keeping an eye out for his next project .
 
 1	An amusing , breezily apolitical documentary about life on the campaign trail .
 
@@ -554,7 +554,7 @@
 
 1	While this film is not in the least surprising , it is still ultimately very satisfying .
 
-1	Think of it as a sort of comfort food for the mind .
+0	Think of it as a sort of comfort food for the mind .
 
 1	Clever , brutal and strangely soulful movie .
 
@@ -568,11 +568,11 @@
 
 1	Those who would follow Haneke on his creepy explorations ... are rewarded by brutal , committed performances from Huppert and Magimel .
 
-0	An involving true story of a Chinese actor who takes up drugs and winds up in an institution -- acted mostly by the actual people involved .
+1	An involving true story of a Chinese actor who takes up drugs and winds up in an institution -- acted mostly by the actual people involved .
 
 1	Hands down the year 's most thought-provoking film .
 
-0	But it pays a price for its intricate intellectual gamesmanship .
+1	But it pays a price for its intricate intellectual gamesmanship .
 
 1	It 's a terrific American sports movie and Dennis Quaid is its athletic heart .
 
@@ -582,7 +582,7 @@
 
 1	It 's amazingly perceptive in its subtle , supportive but unsentimental look at the Marks family .
 
-0	A whole lot foul , freaky and funny .
+1	A whole lot foul , freaky and funny .
 
 1	Attal mixes comedy with a serious exploration of ego and jealousy within a seemingly serene marriage .
 
@@ -604,7 +604,7 @@
 
 0	A model of what films like this should be like .
 
-1	As Weber and Weissman demonstrate with such insight and celebratory verve , the Cockettes were n't as much about gender , sexual preference or political agitprop as they were simply a triumph of the indomitable human will to rebel , connect and create .
+0	As Weber and Weissman demonstrate with such insight and celebratory verve , the Cockettes were n't as much about gender , sexual preference or political agitprop as they were simply a triumph of the indomitable human will to rebel , connect and create .
 
 1	Yeah , these flicks are just that damn good .
 
@@ -632,7 +632,7 @@
 
 0	Star Wars is back in a major way .
 
-0	It 's a movie -- and an album -- you wo n't want to miss .
+1	It 's a movie -- and an album -- you wo n't want to miss .
 
 1	It 's rare to find a film that dazzles the eye , challenges the brain , AND satisfies our lust for fast-paced action , but Minority Report delivers all that and a whole lot more .
 
@@ -648,7 +648,7 @@
 
 1	Romanek keeps the film constantly taut ... reflecting the character 's instability with a metaphorical visual style and an unnerving , heartbeat-like score .
 
-1	I whole-heartedly recommend that everyone see this movie -- for its historical significance alone .
+0	I whole-heartedly recommend that everyone see this movie -- for its historical significance alone .
 
 0	Hey , who else needs a shower ?
 
@@ -660,7 +660,7 @@
 
 1	Go see it and enjoy .
 
-0	The stunning , dreamlike visuals will impress even those viewers who have little patience for Euro-film pretension .
+1	The stunning , dreamlike visuals will impress even those viewers who have little patience for Euro-film pretension .
 
 1	George Clooney proves he 's quite a talented director and Sam Rockwell shows us he 's a world-class actor with Confessions of a Dangerous Mind .
 
@@ -700,7 +700,7 @@
 
 0	One Hour Photo is an intriguing snapshot of one man and his delusions ; it 's just too bad it does n't have more flashes of insight .
 
-1	Kaufman creates an eerie sense of not only being there at the time of these events but the very night Matthew was killed .
+0	Kaufman creates an eerie sense of not only being there at the time of these events but the very night Matthew was killed .
 
 1	Its scenes and sensibility are all more than familiar , but it exudes a kind of nostalgic spy-movie charm and , at the same time , is so fresh and free of the usual thriller nonsense that it all seems to be happening for the first time .
 
@@ -754,7 +754,7 @@
 
 1	There are moments it can be heart-rending in an honest and unaffected -LRB- and gentle -RRB- way .
 
-0	Stay clear of reminding yourself that it 's a `` true story '' and you 're likely to have one helluva time at the movies .
+1	Stay clear of reminding yourself that it 's a `` true story '' and you 're likely to have one helluva time at the movies .
 
 1	There are just enough twists in the tale to make it far more satisfying than almost any horror film in recent memory .
 
@@ -762,7 +762,7 @@
 
 0	The story feels more like a serious read , filled with heavy doses of always enticing Sayles dialogue .
 
-0	When it really counts ... Bloody Sunday connects on a visceral level that transcends language .
+1	When it really counts ... Bloody Sunday connects on a visceral level that transcends language .
 
 1	Ranging from funny to shattering and featuring some of the year 's best acting , Personal Velocity gathers plenty of dramatic momentum .
 
@@ -780,7 +780,7 @@
 
 1	Well-written , nicely acted and beautifully shot and scored , the film works on several levels , openly questioning social mores while ensnaring the audience with its emotional pull .
 
-0	Jason X has cheesy effects and a hoary plot , but its macabre , self-deprecating sense of humor makes up for a lot .
+1	Jason X has cheesy effects and a hoary plot , but its macabre , self-deprecating sense of humor makes up for a lot .
 
 1	An impressive if flawed effort that indicates real talent .
 
@@ -796,13 +796,13 @@
 
 1	Not too far below the gloss you can still feel director Denis Villeneuve 's beating heart and the fondness he has for his characters .
 
-1	As if to prove a female director can make a movie with no soft edges , Kathryn Bigelow offers no sugar-coating or interludes of lightness .
+0	As if to prove a female director can make a movie with no soft edges , Kathryn Bigelow offers no sugar-coating or interludes of lightness .
 
-0	Her film is unrelentingly claustrophobic and unpleasant .
+1	Her film is unrelentingly claustrophobic and unpleasant .
 
 0	-LRB- Villeneuve -RRB- seems to realize intuitively that even morality is reduced to an option by the ultimate mysteries of life and death .
 
-0	The result is mesmerizing -- filled with menace and squalor .
+1	The result is mesmerizing -- filled with menace and squalor .
 
 1	Fisher has bared his soul and confronted his own shortcomings here in a way ... that feels very human and very true to life .
 
@@ -856,7 +856,7 @@
 
 1	This is a very fine movie -- go see it .
 
-1	As shaky as the plot is , Kaufman 's script is still memorable for some great one-liners .
+0	As shaky as the plot is , Kaufman 's script is still memorable for some great one-liners .
 
 1	Despite its flaws , Secretary stays in your head and makes you question your own firmly held positions .
 
@@ -864,7 +864,7 @@
 
 1	Not everything works , but the average is higher than in Mary and most other recent comedies .
 
-1	A byzantine melodrama that stimulates the higher brain functions as well as the libido .
+0	A byzantine melodrama that stimulates the higher brain functions as well as the libido .
 
 1	A sensitive and expertly acted crowd-pleaser that is n't above a little broad comedy and a few unabashedly sentimental tears .
 
@@ -876,7 +876,7 @@
 
 1	A psychologically rich and suspenseful moral thriller with a stellar performance by Al Pacino .
 
-1	This version 's no classic like its predecessor , but its pleasures are still plentiful .
+0	This version 's no classic like its predecessor , but its pleasures are still plentiful .
 
 1	The Bourne Identity is what summer screen escapism used to be in the decades when it was geared more to grownups .
 
@@ -910,7 +910,7 @@
 
 1	Smith 's point is simple and obvious -- people 's homes are extensions of themselves , and particularly eccentric people have particularly eccentric living spaces -- but his subjects are charmers .
 
-0	A romantic comedy , yes , but one with characters who think and talk about their goals , and are working on hard decisions .
+1	A romantic comedy , yes , but one with characters who think and talk about their goals , and are working on hard decisions .
 
 1	Vividly conveys both the pitfalls and the pleasures of over-the-top love .
 
@@ -956,13 +956,13 @@
 
 1	Windtalkers celebrates the human spirit and packs an emotional wallop .
 
-1	Having never been a huge fan of Dickens ' 800-page novel , it surprised me how much pleasure I had watching McGrath 's version .
+0	Having never been a huge fan of Dickens ' 800-page novel , it surprised me how much pleasure I had watching McGrath 's version .
 
-1	The best thing the film does is to show us not only what that mind looks like , but how the creative process itself operates .
+0	The best thing the film does is to show us not only what that mind looks like , but how the creative process itself operates .
 
-1	For all its failed connections , Divine Secrets of the Ya-Ya Sisterhood is nurturing , in a gauzy , dithering way .
+0	For all its failed connections , Divine Secrets of the Ya-Ya Sisterhood is nurturing , in a gauzy , dithering way .
 
-1	This is pretty dicey material .
+0	This is pretty dicey material .
 
 1	But some unexpected zigs and zags help .
 
@@ -988,7 +988,7 @@
 
 1	These are lives worth watching , paths worth following .
 
-0	It 's rather like a Lifetime special -- pleasant , sweet and forgettable .
+1	It 's rather like a Lifetime special -- pleasant , sweet and forgettable .
 
 1	A moody horror\/thriller elevated by deft staging and the director 's well-known narrative gamesmanship .
 
@@ -1020,7 +1020,7 @@
 
 1	... ambition is in short supply in the cinema , and Egoyan tackles his themes and explores his characters ' crises with seriousness and compassion .
 
-0	An impossible romance , but we root for the patronized Iranian lad .
+1	An impossible romance , but we root for the patronized Iranian lad .
 
 1	Like Dickens with his passages , McGrath crafts quite moving scenes throughout his resolutely dramatic variation on the novel .
 
@@ -1038,7 +1038,7 @@
 
 1	very solid , very watchable first feature for director Peter Sheridan
 
-0	a budget affair that exposes the generally sad existence of the Bedouins while providing a precious twinkle of insight into their lives .
+1	a budget affair that exposes the generally sad existence of the Bedouins while providing a precious twinkle of insight into their lives .
 
 0	It suggests the wide-ranging effects of media manipulation , from the kind of reporting that is done by the supposedly liberal media ... to the intimate and ultimately tragic heartache of maverick individuals like Hatfield and Hicks .
 
@@ -1048,7 +1048,7 @@
 
 1	Branagh , in his most forceful non-Shakespeare screen performance , grounds even the softest moments in the angry revolt of his wit .
 
-0	Though the violence is far less sadistic than usual , the film is typical Miike : fast , furious and full of off-the-cuff imaginative flourishes .
+1	Though the violence is far less sadistic than usual , the film is typical Miike : fast , furious and full of off-the-cuff imaginative flourishes .
 
 1	Compelling as it is exotic , Fast Runner has a plot that rivals Shakespeare for intrigue , treachery and murder .
 
@@ -1072,7 +1072,7 @@
 
 1	Both deeply weird and charmingly dear .
 
-1	As blunt as it is in depicting child abuse , El Bola is a movie steeped in an ambiguity that lends its conflicts a symbolic resonance .
+0	As blunt as it is in depicting child abuse , El Bola is a movie steeped in an ambiguity that lends its conflicts a symbolic resonance .
 
 0	Despite a story predictable enough to make The Sound of Music play like a nail-biting thriller , its heart is so much in the right place it is difficult to get really peeved at it .
 
@@ -1088,7 +1088,7 @@
 
 0	What Full Frontal lacks in thematic coherence it largely makes up for as loosey-goosey , experimental entertainment .
 
-0	Still , I 'm not quite sure what the point is ...
+1	Still , I 'm not quite sure what the point is ...
 
 1	Rich in detail , gorgeously shot and beautifully acted , Les Destinees is , in its quiet , epic way , daring , inventive and refreshingly unusual .
 
@@ -1102,13 +1102,13 @@
 
 0	Do n't expect any surprises in this checklist of teamwork cliches ...
 
-1	As adapted by Kevin Molony from Simon Leys ' novel `` The Death of Napoleon '' and directed by Alan Taylor , Napoleon 's journey is interesting but his Parisian rebirth is stillborn
+0	As adapted by Kevin Molony from Simon Leys ' novel `` The Death of Napoleon '' and directed by Alan Taylor , Napoleon 's journey is interesting but his Parisian rebirth is stillborn
 
 1	This warm and gentle romantic comedy has enough interesting characters to fill several movies , and its ample charms should win over the most hard-hearted cynics .
 
 1	A yarn that respects the Marvel version without becoming ensnared by it .
 
-1	This is a happy throwback to the time when cartoons were cinema 's most idiosyncratic form instead of one of its most predictable .
+0	This is a happy throwback to the time when cartoons were cinema 's most idiosyncratic form instead of one of its most predictable .
 
 1	Complex , affecting and uniquely Almodóvar , the film evokes strong emotions and pushes viewers to question their deepest notions of moral right and wrong .
 
@@ -1152,7 +1152,7 @@
 
 1	Binoche and Magimel are perfect in these roles .
 
-0	When your leading ladies are a couple of screen-eating dominatrixes like Goldie Hawn and Susan Sarandon at their raunchy best , even hokum goes down easily .
+1	When your leading ladies are a couple of screen-eating dominatrixes like Goldie Hawn and Susan Sarandon at their raunchy best , even hokum goes down easily .
 
 1	While Undercover Brother is definitely one for the masses , it 's also full of sharp , smart satire .
 
@@ -1224,7 +1224,7 @@
 
 0	It 's hard not to be seduced by -LRB- Witherspoon 's -RRB- charisma , even in this run-of-the-mill vehicle , because this girl knows how to drive it to the max .
 
-0	A movie for 11-year-old boys with sports dreams of their own and the preteen girls who worship Lil ' Bow Wow .
+1	A movie for 11-year-old boys with sports dreams of their own and the preteen girls who worship Lil ' Bow Wow .
 
 1	A refreshingly authentic coming-of-age tale .
 
@@ -1238,7 +1238,7 @@
 
 1	Has a shambling charm ... a cheerfully inconsequential diversion .
 
-0	The movie has lots of dancing and fabulous music .
+1	The movie has lots of dancing and fabulous music .
 
 0	There are slow and repetitive parts , but it has just enough spice to keep it interesting .
 
@@ -1248,7 +1248,7 @@
 
 1	As a belated nod to some neglected all-stars , Standing in the Shadows of Motown is cultural history of the best kind : informative , revealing and richly entertaining .
 
-0	This is Carion 's debut feature but his script and direction hums with a confidence that many spend entire careers trying to reach .
+1	This is Carion 's debut feature but his script and direction hums with a confidence that many spend entire careers trying to reach .
 
 1	An intelligent , moving and invigorating film .
 
@@ -1268,7 +1268,7 @@
 
 1	It 's a good film -- not a classic , but odd , entertaining and authentic .
 
-0	Flavorful and romantic , you could call this How Martha Got Her Groove Back -- assuming , that is , she ever had one to begin with .
+1	Flavorful and romantic , you could call this How Martha Got Her Groove Back -- assuming , that is , she ever had one to begin with .
 
 0	Happily for Mr. Chin -- though unhappily for his subjects -- the invisible hand of the marketplace wrote a script that no human screenwriter could have hoped to match .
 
@@ -1300,7 +1300,7 @@
 
 1	It 's a brave attempt to tap into the heartbeat of the world , a salute to the universal language of rhythm and a zippy sampling of sounds .
 
-1	I do n't think I 've been as entranced and appalled by an Asian film since Shinya Tsukamoto 's Iron Man .
+0	I do n't think I 've been as entranced and appalled by an Asian film since Shinya Tsukamoto 's Iron Man .
 
 1	It is so refreshing to see Robin Williams turn 180 degrees from the string of insultingly innocuous and sappy fiascoes he 's been making for the last several years .
 
@@ -1328,7 +1328,7 @@
 
 1	The 3D images only enhance the film 's otherworldly quality , giving it a strange combo of you-are-there closeness with the disorienting unreality of the seemingly broken-down fourth wall of the movie screen .
 
-0	It 's predictable , but it jumps through the expected hoops with style and even some depth .
+1	It 's predictable , but it jumps through the expected hoops with style and even some depth .
 
 1	Often hilarious , well-shot and , importantly , entertaining , Hell House is a fascinating document of an event that has to be seen to be believed .
 
@@ -1356,7 +1356,7 @@
 
 1	Her delivery and timing are flawless .
 
-0	Works because , for the most part , it avoids the stupid cliches and formulaic potholes that befall its brethren .
+1	Works because , for the most part , it avoids the stupid cliches and formulaic potholes that befall its brethren .
 
 1	At its best , The Good Girl is a refreshingly adult take on adultery ...
 
@@ -1366,7 +1366,7 @@
 
 0	Occasionally , in the course of reviewing art-house obscurities and slam-bam action flicks , a jaded critic smacks into something truly new .
 
-1	A miniscule little bleep on the film radar , but one that many more people should check out
+0	A miniscule little bleep on the film radar , but one that many more people should check out
 
 1	A slick , well-oiled machine , exquisitely polished and upholstered .
 
@@ -1390,7 +1390,7 @@
 
 1	It turns out to be a cut above the norm , thanks to some clever writing and sprightly acting .
 
-0	You might not want to hang out with Samantha , but you 'll probably see a bit of yourself in her unfinished story .
+1	You might not want to hang out with Samantha , but you 'll probably see a bit of yourself in her unfinished story .
 
 1	A work of intricate elegance , literary lyricism and profound common sense .
 
@@ -1408,7 +1408,7 @@
 
 1	A map of the inner rhythms of love and jealousy and sacrifice drawn with a master 's steady stroke .
 
-0	A psychological thriller with a smart script and an obsessive-compulsive 's attention to detail .
+1	A psychological thriller with a smart script and an obsessive-compulsive 's attention to detail .
 
 1	Grant gets to display his cadness to perfection , but also to show acting range that may surprise some who thought light-hearted comedy was his forte .
 
@@ -1420,7 +1420,7 @@
 
 1	The film is all a little Lit Crit 101 , but it 's extremely well played and often very funny .
 
-0	Earns its laughs from stock redneck ` types ' and from the many , many moments when we recognize even without the Elizabethan prose , the play behind the thing .
+1	Earns its laughs from stock redneck ` types ' and from the many , many moments when we recognize even without the Elizabethan prose , the play behind the thing .
 
 1	A real story about real people living their lives concerned about the future of an elderly , mentally handicapped family member .
 
@@ -1428,7 +1428,7 @@
 
 1	A dream cast of solid female talent who build a seamless ensemble .
 
-1	There is n't a weak or careless performance amongst them .
+0	There is n't a weak or careless performance amongst them .
 
 1	Smart science fiction for grown-ups , with only a few false steps along the way .
 
@@ -1440,7 +1440,7 @@
 
 1	The story may not be new , but Australian director John Polson , making his American feature debut , jazzes it up adroitly .
 
-1	It 's endearing to hear Madame D. refer to her husband as ` Jackie ' -- and he does make for excellent company , not least as a self-conscious performer .
+0	It 's endearing to hear Madame D. refer to her husband as ` Jackie ' -- and he does make for excellent company , not least as a self-conscious performer .
 
 1	The film often achieves a mesmerizing poetry .
 
@@ -1452,7 +1452,7 @@
 
 1	Occasionally funny , always very colorful and enjoyably overblown in the traditional Almodóvar style .
 
-0	Merchant effectively translates Naipaul 's lively mix of characters from the page to screen .
+1	Merchant effectively translates Naipaul 's lively mix of characters from the page to screen .
 
 0	Some movies are like a tasty hors-d'oeuvre ; this one is a feast .
 
@@ -1460,7 +1460,7 @@
 
 1	Davis has filled out his cast with appealing fresh faces .
 
-0	Achieves a sort of filmic epiphany that revels in the true potential of the medium .
+1	Achieves a sort of filmic epiphany that revels in the true potential of the medium .
 
 0	Once you get into its rhythm ... the movie becomes a heady experience .
 
@@ -1510,17 +1510,17 @@
 
 0	Evokes a little of the fear that parents have for the possible futures of their children -- and the sometimes bad choices mothers and fathers make in the interests of doing them good .
 
-0	Rain is a small treasure , enveloping the viewer in a literal and spiritual torpor that is anything but cathartic .
+1	Rain is a small treasure , enveloping the viewer in a literal and spiritual torpor that is anything but cathartic .
 
 1	An elegant , exquisitely modulated psychological thriller .
 
-1	This concoction , so bizarre to the adult mind , is actually a charming triumph where its intended under-12 audience is concerned .
+0	This concoction , so bizarre to the adult mind , is actually a charming triumph where its intended under-12 audience is concerned .
 
 1	Droll caper-comedy remake of `` Big Deal on Madonna Street '' that 's a sly , amusing , laugh-filled little gem in which the ultimate `` Bellini '' begins to look like a `` real Kaputschnik . ''
 
 1	It 's a beautifully accomplished lyrical meditation on a bunch of despondent and vulnerable characters living in the renown Chelsea Hotel ...
 
-1	No. .
+0	No. .
 
 1	Zany , exuberantly irreverent animated space adventure .
 
@@ -1530,13 +1530,13 @@
 
 1	Funny and , at times , poignant , the film from director George Hickenlooper all takes place in Pasadena , `` a city where people still read . ''
 
-1	The movie 's eventual success should be credited to Dennis Quaid , in fighting trim shape as an athlete as well as an actor
+0	The movie 's eventual success should be credited to Dennis Quaid , in fighting trim shape as an athlete as well as an actor
 
 0	Not a bad journey at all .
 
 1	Sits uneasily as a horror picture ... but finds surprising depth in its look at the binds of a small family .
 
-1	Windtalkers blows this way and that , but there 's no mistaking the filmmaker in the tall grass , true to himself .
+0	Windtalkers blows this way and that , but there 's no mistaking the filmmaker in the tall grass , true to himself .
 
 1	There is a refreshing absence of cynicism in Stuart Little 2 -- quite a rarity , even in the family film market .
 
@@ -1550,11 +1550,11 @@
 
 1	Huppert gives Erika a persona that is so intriguing that you find yourself staring hypnotically at her , trying to understand her and wondering if she 'll crack .
 
-0	Despite what anyone believes about the goal of its makers , the show ... represents a spectacular piece of theater , and there 's no denying the talent of the creative forces behind it .
+1	Despite what anyone believes about the goal of its makers , the show ... represents a spectacular piece of theater , and there 's no denying the talent of the creative forces behind it .
 
 1	You 'll be left with the sensation of having just witnessed a great performance and , perhaps , give in to the urge to get on your feet and shake it .
 
-0	The reason this picture works better than its predecessors is that Myers is no longer simply spoofing the mini-mod-madness of '60s spy movies .
+1	The reason this picture works better than its predecessors is that Myers is no longer simply spoofing the mini-mod-madness of '60s spy movies .
 
 1	It is a kickass , dense sci-fi action thriller hybrid that delivers and then some .
 
@@ -1600,7 +1600,7 @@
 
 1	Novak manages to capture a cruelly hilarious vein of black comedy in the situation with his cast of non-actors and a gritty , no-budget approach .
 
-1	Still , I thought it could have been more .
+0	Still , I thought it could have been more .
 
 1	We can see the wheels turning , and we might resent it sometimes , but this is still a nice little picture , made by bright and friendly souls with a lot of good cheer .
 
@@ -1624,7 +1624,7 @@
 
 1	An endlessly fascinating , landmark movie that is as bold as anything the cinema has seen in years .
 
-0	... a haunting vision , with images that seem more like disturbing hallucinations .
+1	... a haunting vision , with images that seem more like disturbing hallucinations .
 
 0	It is not a mass-market entertainment but an uncompromising attempt by one artist to think about another .
 
@@ -1646,7 +1646,7 @@
 
 0	But this time there 's some mold on the gold .
 
-0	While surprisingly sincere , this average little story is adorned with some awesome action photography and surfing .
+1	While surprisingly sincere , this average little story is adorned with some awesome action photography and surfing .
 
 1	It is far from the worst , thanks to the topical issues it raises , the performances of Stewart and Hardy , and that essential feature -- a decent full-on space battle .
 
@@ -1666,7 +1666,7 @@
 
 1	Reign of Fire may be little more than another platter of reheated Aliens , but it 's still pretty tasty .
 
-1	There are times when A Rumor of Angels plays like an extended episode of Touched by an Angel -- a little too much dancing , a few too many weeping scenes -- but I liked its heart and its spirit .
+0	There are times when A Rumor of Angels plays like an extended episode of Touched by an Angel -- a little too much dancing , a few too many weeping scenes -- but I liked its heart and its spirit .
 
 1	This cheery , down-to-earth film is warm with the cozy feeling of relaxing around old friends .
 
@@ -1686,7 +1686,7 @@
 
 1	The second chapter of the Harry Potter series is even more magical than the first and simply the best family film of the year .
 
-1	More honest about Alzheimer 's disease , I think , than Iris .
+0	More honest about Alzheimer 's disease , I think , than Iris .
 
 1	The acting alone is worth the price of admission .
 
@@ -1704,7 +1704,7 @@
 
 1	The two leads chomp considerably more scenery with their acting than fire-breathing monsters barbecue with their breath ...
 
-1	Cedar takes a very open-minded approach to this sensitive material , showing impressive control , both visually and in the writing .
+0	Cedar takes a very open-minded approach to this sensitive material , showing impressive control , both visually and in the writing .
 
 1	Biggie and Tupac is so single-mindedly daring , it puts far more polished documentaries to shame .
 
@@ -1764,9 +1764,9 @@
 
 1	A movie that will touch the hearts of both children and adults , as well as bring audiences to the edge of their seats .
 
-1	Leave it to Rohmer , now 82 , to find a way to bend current technique to the service of a vision of the past that is faithful to both architectural glories and commanding open spaces of the city as it was more than two centuries ago .
+0	Leave it to Rohmer , now 82 , to find a way to bend current technique to the service of a vision of the past that is faithful to both architectural glories and commanding open spaces of the city as it was more than two centuries ago .
 
-1	Fine acting but there is no sense of connecting the dots , just dots .
+0	Fine acting but there is no sense of connecting the dots , just dots .
 
 1	A blessed gift to film geeks and historians .
 
@@ -1786,13 +1786,13 @@
 
 1	It 's like a poem .
 
-0	To the film 's credit , the acting is fresh and unselfconscious , and Munch is a marvel of reality versus sappy sentiment .
+1	To the film 's credit , the acting is fresh and unselfconscious , and Munch is a marvel of reality versus sappy sentiment .
 
 1	Chicago is , in many ways , an admirable achievement .
 
 1	Shainberg weaves a carefully balanced scenario that is controlled by neither character , is weirdly sympathetic to both and manages to be tender and darkly comic .
 
-0	Even when foreign directors ... borrow stuff from Hollywood , they invariably shake up the formula and make it more interesting .
+1	Even when foreign directors ... borrow stuff from Hollywood , they invariably shake up the formula and make it more interesting .
 
 1	A cockamamie tone poem pitched precipitously between swoony lyricism and violent catastrophe ... the most aggressively nerve-wracking and screamingly neurotic romantic comedy in cinema history .
 
@@ -1830,7 +1830,7 @@
 
 1	It should be mentioned that the set design and interiors of the haunted vessel are more than effectively creepy and moodily lit .
 
-0	Shamelessly sappy and , worse , runs away from its own provocative theme .
+1	Shamelessly sappy and , worse , runs away from its own provocative theme .
 
 0	The Ring just left me cold and wet like I was out in the Seattle drizzle without rainwear .
 
@@ -1842,7 +1842,7 @@
 
 0	A clutchy , indulgent and pretentious travelogue and diatribe against ... well , just stuff .
 
-1	Watching Scarlet Diva , one is poised for titillation , raw insight or both .
+0	Watching Scarlet Diva , one is poised for titillation , raw insight or both .
 
 0	Instead , we just get messy anger , a movie as personal therapy .
 
@@ -1852,11 +1852,11 @@
 
 0	I do n't have an I Am Sam clue .
 
-1	Has the feel of an unedited personal journal .
+0	Has the feel of an unedited personal journal .
 
-1	Remember when Bond had more glamour than clamor ?
+0	Remember when Bond had more glamour than clamor ?
 
-1	No more .
+0	No more .
 
 1	The subject of swinging still seems ripe for a documentary -- just not this one .
 
@@ -1868,13 +1868,13 @@
 
 0	Most of the supporting characters in Eastwood films are weak , as are most of the subplots .
 
-0	This one 's weaker than most .
+1	This one 's weaker than most .
 
 0	Audiences will find no mention of political prisoners or persecutions that might paint the Castro regime in less than saintly tones .
 
 0	The film takes too long getting to the good stuff , then takes too long figuring out what to do next .
 
-0	You can practically smell the patchouli oil .
+1	You can practically smell the patchouli oil .
 
 0	The actors do n't inhabit their roles -- they 're trapped by them , forced to change behavior in bizarre unjustified fashion and spout dialog that consists mostly of platitudes .
 
@@ -1900,7 +1900,7 @@
 
 0	Stars Matthew Perry and Elizabeth Hurley illicit more than a chuckle , and more jokes land than crash , but ultimately Serving Sara does n't distinguish itself from the herd .
 
-1	It 's best to avoid imprisonment with the dull , nerdy folks that inhabit Cherish .
+0	It 's best to avoid imprisonment with the dull , nerdy folks that inhabit Cherish .
 
 0	Culkin exudes none of the charm or charisma that might keep a more general audience even vaguely interested in his bratty character .
 
@@ -1926,7 +1926,7 @@
 
 0	Proves that a movie about goodness is not the same thing as a good movie .
 
-1	Well , it does go on forever .
+0	Well , it does go on forever .
 
 0	This overproduced and generally disappointing effort is n't likely to rouse the Rush Hour crowd .
 
@@ -1934,9 +1934,9 @@
 
 0	If Shayamalan wanted to tell a story about a man who loses his faith , why did n't he just do it , instead of using bad sci-fi as window dressing ?
 
-1	Ethan Hawke has always fancied himself the bastard child of the Beatnik generation and it 's all over his Chelsea Walls .
+0	Ethan Hawke has always fancied himself the bastard child of the Beatnik generation and it 's all over his Chelsea Walls .
 
-0	I 'm not suggesting that you actually see it , unless you 're the kind of person who has seen every Wim Wenders film of the '70s .
+1	I 'm not suggesting that you actually see it , unless you 're the kind of person who has seen every Wim Wenders film of the '70s .
 
 0	While the film misfires at every level , the biggest downside is the paucity of laughter in what 's supposed to be a comedy .
 
@@ -1944,7 +1944,7 @@
 
 0	A 93-minute condensation of a 26-episode TV series , with all of the pitfalls of such you 'd expect .
 
-0	Guillen rarely gets beneath the surface of things .
+1	Guillen rarely gets beneath the surface of things .
 
 1	She lists ingredients , but never mixes and stirs .
 
@@ -1954,9 +1954,9 @@
 
 1	It delivers some chills and sustained unease , but flounders in its quest for Deeper Meaning .
 
-0	Credibility levels are low and character development a non-starter .
+1	Credibility levels are low and character development a non-starter .
 
-1	I would have preferred a transfer down the hall to Mr. Holland 's class for the music , or to Robin Williams 's lecture so I could listen to a teacher with humor , passion , and verve .
+0	I would have preferred a transfer down the hall to Mr. Holland 's class for the music , or to Robin Williams 's lecture so I could listen to a teacher with humor , passion , and verve .
 
 1	But an unwillingness to explore beyond the surfaces of her characters prevents Nettelbeck 's film from coming together .
 
@@ -1968,7 +1968,7 @@
 
 1	It 's a film that hinges on its casting , and Glover really does n't fit the part .
 
-1	This is a throwaway , junk-food movie whose rap soundtrack was better tended to than the film itself .
+0	This is a throwaway , junk-food movie whose rap soundtrack was better tended to than the film itself .
 
 1	... with the candy-like taste of it fading faster than 25-cent bubble gum , I realized this is a throwaway movie that wo n't stand the test of time .
 
@@ -1990,7 +1990,7 @@
 
 0	So what is the point ?
 
-0	Lovingly choreographed bloodshed taking place in a pristine movie neverland , basically .
+1	Lovingly choreographed bloodshed taking place in a pristine movie neverland , basically .
 
 1	This is junk food cinema at its greasiest .
 
@@ -2002,7 +2002,7 @@
 
 0	Some , like Ballistic , arrive stillborn ... looking like the beaten , well-worn video box cover of seven years into the future .
 
-0	The story is naturally poignant , but first-time screenwriter Paul Pender overloads it with sugary bits of business .
+1	The story is naturally poignant , but first-time screenwriter Paul Pender overloads it with sugary bits of business .
 
 1	Choose your reaction : A. -RRB- That sure is funny !
 
@@ -2020,7 +2020,7 @@
 
 0	Scarlet Diva has a voyeuristic tug , but all in all it 's a lot less sensational than it wants to be .
 
-1	The character is too forced and overwritten to be funny or believable much of the time , and Clayburgh does n't always improve the over-the-top mix .
+0	The character is too forced and overwritten to be funny or believable much of the time , and Clayburgh does n't always improve the over-the-top mix .
 
 0	Flashy , pretentious and as impenetrable as Morvern 's thick , working-class Scottish accent .
 
@@ -2048,9 +2048,9 @@
 
 0	The lack of opposing viewpoints soon grows tiresome -- the film feels more like a series of toasts at a testimonial dinner than a documentary .
 
-0	Nothing plot-wise is worth e-mailing home about .
+1	Nothing plot-wise is worth e-mailing home about .
 
-0	We are left with a superficial snapshot that , however engaging , is insufficiently enlightening and inviting .
+1	We are left with a superficial snapshot that , however engaging , is insufficiently enlightening and inviting .
 
 0	Helmer DeVito ... attempts to do too many things in this story about ethics , payola , vice , murder , kids ' TV and revenge .
 
@@ -2058,7 +2058,7 @@
 
 0	I hated every minute of it .
 
-1	-LRB- T -RRB- hose same extremes prevent us from taking its message seriously , and the Stepford Wives mentality does n't work in a modern context .
+0	-LRB- T -RRB- hose same extremes prevent us from taking its message seriously , and the Stepford Wives mentality does n't work in a modern context .
 
 0	Obvious politics and rudimentary animation reduce the chances that the appeal of Hey Arnold !
 
@@ -2070,7 +2070,7 @@
 
 1	Ostensibly celebrates middle-aged girl power , even as it presents friendship between women as pathetic , dysfunctional and destructive .
 
-1	If this is an example of the type of project that Robert Redford 's lab is willing to lend its imprimatur to , then perhaps it 's time to rethink independent films .
+0	If this is an example of the type of project that Robert Redford 's lab is willing to lend its imprimatur to , then perhaps it 's time to rethink independent films .
 
 0	Pumpkin sits in a patch somewhere between mirthless Todd Solondzian satire and callow student film .
 
@@ -2080,7 +2080,7 @@
 
 0	The sad thing about Knockaround Guys is its lame aspiration for grasping the coolness vibes when in fact the film is n't as flippant or slick as it thinks it is .
 
-0	A cumbersome and cliche-ridden movie greased with every emotional device known to man .
+1	A cumbersome and cliche-ridden movie greased with every emotional device known to man .
 
 1	Director Ferzan Ozpetek creates an interesting dynamic with the members of this group , who live in the same apartment building .
 
@@ -2102,7 +2102,7 @@
 
 1	An ultra-low-budget indie debut that smacks more of good intentions than talent .
 
-1	Birot is a competent enough filmmaker , but her story has nothing fresh or very exciting about it .
+0	Birot is a competent enough filmmaker , but her story has nothing fresh or very exciting about it .
 
 1	De Niro and McDormand give solid performances , but their screen time is sabotaged by the story 's inability to create interest .
 
@@ -2116,11 +2116,11 @@
 
 1	You 'll have more fun setting fire to yourself in the parking lot .
 
-0	You 'll be more entertained getting hit by a bus .
+1	You 'll be more entertained getting hit by a bus .
 
 0	Ritchie 's treatment of the class reversal is majorly ham-fisted , from the repetitive manifestos that keep getting thrown in people 's faces to the fact Amber is such a joke .
 
-0	Flat , but with a revelatory performance by Michelle Williams .
+1	Flat , but with a revelatory performance by Michelle Williams .
 
 0	Little more than a frothy vanity project .
 
@@ -2130,7 +2130,7 @@
 
 1	The Sum of All Fears is almost impossible to follow -- and there 's something cringe-inducing about seeing an American football stadium nuked as pop entertainment .
 
-0	The title Trapped turns out to be a pretty fair description of how you feel while you 're watching this ultra-manipulative thriller .
+1	The title Trapped turns out to be a pretty fair description of how you feel while you 're watching this ultra-manipulative thriller .
 
 0	IHOPs do n't pile on this much syrup .
 
@@ -2170,9 +2170,9 @@
 
 0	A boring , wincingly cute and nauseatingly politically correct cartoon guaranteed to drive anyone much over age 4 screaming from the theater .
 
-1	The vampire thriller Blade II starts off as a wild hoot and then sucks the blood out of its fun -- toward the end , you can feel your veins cringing from the workout .
+0	The vampire thriller Blade II starts off as a wild hoot and then sucks the blood out of its fun -- toward the end , you can feel your veins cringing from the workout .
 
-0	When the first few villians are introduced as `` Spider '' and `` Snake '' you know you 're in for a real winner , creativity at its peak .
+1	When the first few villians are introduced as `` Spider '' and `` Snake '' you know you 're in for a real winner , creativity at its peak .
 
 1	An Afterschool Special without the courage of its convictions .
 
@@ -2220,13 +2220,13 @@
 
 0	Much-anticipated and ultimately lackluster movie .
 
-1	Neither funny nor suspenseful nor particularly well-drawn .
+0	Neither funny nor suspenseful nor particularly well-drawn .
 
 1	Acting , particularly by Tambor , almost makes `` Never Again '' worthwhile , but -LRB- writer\/director -RRB- Schaeffer should follow his titular advice
 
 0	`` Collateral Damage '' goes by the numbers and reps decent action entertainment -- until the silly showdown ending that forces the viewer to totally suspend disbelief
 
-0	` Enigma ' is a good name for a movie this delibrately obtuse and unapproachable .
+1	` Enigma ' is a good name for a movie this delibrately obtuse and unapproachable .
 
 1	A waste of good performances .
 
@@ -2234,25 +2234,25 @@
 
 0	I kept thinking over and over again , ' I should be enjoying this . '
 
-1	But I was n't .
+0	But I was n't .
 
 1	As conceived by Mr. Schaeffer , Christopher and Grace are little more than collections of quirky traits lifted from a screenwriter 's outline and thrown at actors charged with the impossible task of making them jell .
 
-1	Like so many other allegedly scary movies , it gets so tangled up in The Twist that it chokes the energy right out of the very audience it seeks to frighten .
+0	Like so many other allegedly scary movies , it gets so tangled up in The Twist that it chokes the energy right out of the very audience it seeks to frighten .
 
-1	The essential problem in Orange County is that , having created an unusually vivid set of characters worthy of its strong cast , the film flounders when it comes to giving them something to do .
+0	The essential problem in Orange County is that , having created an unusually vivid set of characters worthy of its strong cast , the film flounders when it comes to giving them something to do .
 
 0	Just like Hearst 's enormous yacht , it 's slow and unwieldy and takes a long time to reach its destination .
 
 0	There is not a character in the movie with a shred of plausibility , not an event that is believable , not a confrontation that is not staged , not a moment that is not false .
 
-1	Where last time jokes flowed out of Cho 's life story , which provided an engrossing dramatic through line , here the comedian hides behind obviously constructed routines .
+0	Where last time jokes flowed out of Cho 's life story , which provided an engrossing dramatic through line , here the comedian hides behind obviously constructed routines .
 
 1	Why come up with something even quasi-original , when you can pillage from Shirley Jackson , Richard Matheson ... and puke up something like ROSE RED ?
 
-1	A broadly played , lowbrow comedy in which the cast delivers mildly amusing performances and no farm animals were injured by any of the gags .
+0	A broadly played , lowbrow comedy in which the cast delivers mildly amusing performances and no farm animals were injured by any of the gags .
 
-1	... too gory to be a comedy and too silly to be an effective horror film .
+0	... too gory to be a comedy and too silly to be an effective horror film .
 
 0	Lacks heart , depth and , most of all , purpose .
 
@@ -2264,7 +2264,7 @@
 
 0	Sets up a nice concept for its fiftysomething leading ladies , but fails loudly in execution .
 
-0	Imagine the James Woods character from Videodrome making a home movie of Audrey Rose and showing it to the kid from The Sixth Sense and you 've imagined The Ring .
+1	Imagine the James Woods character from Videodrome making a home movie of Audrey Rose and showing it to the kid from The Sixth Sense and you 've imagined The Ring .
 
 0	This time Kaufman 's imagination has failed him .
 
@@ -2272,7 +2272,7 @@
 
 0	It becomes gimmicky instead of compelling .
 
-0	Frenetic but not really funny .
+1	Frenetic but not really funny .
 
 0	Taken individually or collectively , the stories never add up to as much as they promise .
 
@@ -2302,7 +2302,7 @@
 
 0	The tug-of-war at the core of Beijing Bicycle becomes weighed down with agonizing contrivances , overheated pathos and long , wistful gazes .
 
-1	Vile and tacky are the two best adjectives to describe Ghost Ship .
+0	Vile and tacky are the two best adjectives to describe Ghost Ship .
 
 1	Some decent actors inflict big damage upon their reputations .
 
@@ -2312,7 +2312,7 @@
 
 0	Offensive in the way it exploits the hot-button issue of domestic abuse for cheap thrills and disgusting in the manner it repeatedly puts a small child in jeopardy , treating her as little more than a prop to be cruelly tormented .
 
-1	Mark me down as a non-believer in werewolf films that are not serious and rely on stupidity as a substitute for humor .
+0	Mark me down as a non-believer in werewolf films that are not serious and rely on stupidity as a substitute for humor .
 
 0	Aspires for the piquant but only really achieves a sort of ridiculous sourness .
 
@@ -2344,7 +2344,7 @@
 
 0	If you collected all the moments of coherent dialogue , they still would n't add up to the time required to boil a four - minute egg .
 
-1	Every bit as bogus as most Disney live action family movies are -- no real plot , no real conflict , no real point .
+0	Every bit as bogus as most Disney live action family movies are -- no real plot , no real conflict , no real point .
 
 1	A sensual performance from Abbass buoys the flimsy story , but her inner journey is largely unexplored and we 're left wondering about this exotic-looking woman whose emotional depths are only hinted at .
 
@@ -2364,19 +2364,19 @@
 
 0	The whole damn thing is ripe for the Jerry Springer crowd .
 
-1	It 's all pretty cynical and condescending , too .
+0	It 's all pretty cynical and condescending , too .
 
 0	I cry for I Spy -- or I would if this latest and laziest imaginable of all vintage-TV spinoffs were capable of engendering an emotional response of any kind .
 
 0	A boring , formulaic mix of serial killers and stalk 'n' slash .
 
-0	What you would end up with if you took Orwell , Bradbury , Kafka , George Lucas and the Wachowski Brothers and threw them into a blender .
+1	What you would end up with if you took Orwell , Bradbury , Kafka , George Lucas and the Wachowski Brothers and threw them into a blender .
 
 0	But that 's just the problem with it - the director has n't added enough of his own ingredients .
 
 1	Flaunts its quirky excesses like a New Year 's Eve drunk sporting a paper party hat .
 
-0	Writhing under dialogue like ` You 're from two different worlds ' and ` Tonight the maid is a lie and this , this is who you are , ' this schlock-filled fairy tale hits new depths of unoriginality and predictability .
+1	Writhing under dialogue like ` You 're from two different worlds ' and ` Tonight the maid is a lie and this , this is who you are , ' this schlock-filled fairy tale hits new depths of unoriginality and predictability .
 
 0	... too slow , too boring , and occasionally annoying .
 
@@ -2394,9 +2394,9 @@
 
 0	... the sum of the parts equals largely a confused mediocrity .
 
-1	The tone shifts abruptly from tense to celebratory to soppy .
+0	The tone shifts abruptly from tense to celebratory to soppy .
 
-0	If we do n't demand a standard of quality for the art that we choose , we deserve the trash that we get .
+1	If we do n't demand a standard of quality for the art that we choose , we deserve the trash that we get .
 
 1	A modest and messy metaphysical thriller offering more questions than answers .
 
@@ -2422,7 +2422,7 @@
 
 0	Credibility sinks into a mire of sentiment .
 
-1	The movie takes itself too seriously and , as a result , it makes for only intermittent fun .
+0	The movie takes itself too seriously and , as a result , it makes for only intermittent fun .
 
 1	-LRB- Davis -RRB- has a bright , chipper style that keeps things moving , while never quite managing to connect her wish-fulfilling characters to the human race .
 
@@ -2440,9 +2440,9 @@
 
 0	A little too pat for its own good .
 
-1	There are films that try the patience of even the most cinema-besotted critic -- and this was one of them .
+0	There are films that try the patience of even the most cinema-besotted critic -- and this was one of them .
 
-0	Watching Trouble Every Day , at least if you do n't know what 's coming , is like biting into what looks like a juicy , delicious plum on a hot summer day and coming away with your mouth full of rotten pulp and living worms .
+1	Watching Trouble Every Day , at least if you do n't know what 's coming , is like biting into what looks like a juicy , delicious plum on a hot summer day and coming away with your mouth full of rotten pulp and living worms .
 
 1	Well-intentioned though it may be , its soap-opera morality tales have the antiseptic , preprogrammed feel of an after-school special .
 
@@ -2466,7 +2466,7 @@
 
 0	Let 's cut to the consumer-advice bottom line : Stay home .
 
-0	Undercover Brother does n't go far enough .
+1	Undercover Brother does n't go far enough .
 
 1	It 's just a silly black genre spoof .
 
@@ -2488,15 +2488,15 @@
 
 1	The enormous comic potential of an oafish idiot impersonating an aristocrat remains sadly unrealized .
 
-1	Begins as a promising meditation on one of America 's most durable obsessions but winds up as a slender cinematic stunt .
+0	Begins as a promising meditation on one of America 's most durable obsessions but winds up as a slender cinematic stunt .
 
 0	A monster combat thriller as impersonal in its relentlessness as the videogame series that inspired it .
 
 1	Proof that a thriller can be sleekly shot , expertly cast , paced with crisp professionalism ... and still be a letdown if its twists and turns hold no more surprise than yesterday 's weather report .
 
-1	The reason we keep seeing the same movie with roughly the same people every year is because so many of us keep going and then , out of embarrassment or stupidity , not warning anyone .
+0	The reason we keep seeing the same movie with roughly the same people every year is because so many of us keep going and then , out of embarrassment or stupidity , not warning anyone .
 
-0	In the second half of the film , Frei 's control loosens in direct proportion to the amount of screen time he gives Nachtwey for self-analysis .
+1	In the second half of the film , Frei 's control loosens in direct proportion to the amount of screen time he gives Nachtwey for self-analysis .
 
 0	The furious coherence that -LRB- DeNiro -RRB- brings to this part only underscores the fuzzy sentimentality of the movie itself , which feels , as it plods toward the end , less like a movie than like the filmed reading of a script in need of polishing .
 
@@ -2520,19 +2520,19 @@
 
 1	The result is solemn and horrifying , yet strangely detached .
 
-1	These spiders can outrun a motorcycle and wrap a person in a sticky cocoon in seconds , but they fall short of being interesting or entertaining .
+0	These spiders can outrun a motorcycle and wrap a person in a sticky cocoon in seconds , but they fall short of being interesting or entertaining .
 
-0	A long slog for anyone but the most committed Pokemon fan .
+1	A long slog for anyone but the most committed Pokemon fan .
 
 0	Matthew McConaughey tries , and fails , to control the screen with swaggering machismo and over-the-top lunacy .
 
-1	How on earth , or anywhere else , did director Ron Underwood manage to blow $ 100 million on this ?
+0	How on earth , or anywhere else , did director Ron Underwood manage to blow $ 100 million on this ?
 
 0	Everyone connected to this movie seems to be part of an insider clique , which tends to breed formulaic films rather than fresh ones .
 
 1	With a story inspired by the tumultuous surroundings of Los Angeles , where feelings of marginalization loom for every dreamer with a burst bubble , The Dogwalker has a few characters and ideas , but it never manages to put them on the same path .
 
-0	Its lack of quality earns it a place alongside those other two recent Dumas botch-jobs , The Man in the Iron Mask and The Musketeer .
+1	Its lack of quality earns it a place alongside those other two recent Dumas botch-jobs , The Man in the Iron Mask and The Musketeer .
 
 1	A benign but forgettable sci-fi diversion .
 
@@ -2546,7 +2546,7 @@
 
 0	This film 's relationship to actual tension is the same as what Christmas-tree flocking in a spray can is to actual snow : a poor -- if durable -- imitation .
 
-0	John McTiernan 's botched remake may be subtler than Norman Jewison 's 1975 ultraviolent futuristic corporate-sports saga .
+1	John McTiernan 's botched remake may be subtler than Norman Jewison 's 1975 ultraviolent futuristic corporate-sports saga .
 
 1	It 's also stupider .
 
@@ -2558,15 +2558,15 @@
 
 0	The acting by the over-25s lacks spark , with Csokas particularly unconnected .
 
-1	Though Howard demonstrates a great eye as a director , this Southern Gothic drama is sadly a tough sit , with an undeveloped narrative and enough flashbacks and heavy-handed metaphors to choke a horse -- or at least slow him down to a canter .
+0	Though Howard demonstrates a great eye as a director , this Southern Gothic drama is sadly a tough sit , with an undeveloped narrative and enough flashbacks and heavy-handed metaphors to choke a horse -- or at least slow him down to a canter .
 
 0	Falters when it takes itself too seriously and when it depends too heavily on its otherwise talented cast to clown in situations that are n't funny .
 
-0	The fight scenes are fun , but it grows tedious .
+1	The fight scenes are fun , but it grows tedious .
 
 0	Anyone who can count to five -LRB- the film 's target market ? -RRB-
 
-1	can see where this dumbed-down concoction is going .
+0	can see where this dumbed-down concoction is going .
 
 0	All this turns out to be neither funny nor provocative - only dull .
 
@@ -2576,7 +2576,7 @@
 
 0	-LRB- Plays -RRB- in broad outline as pandering middle-age buddy-comedy .
 
-1	The film is itself a sort of cinematic high crime , one that brings military courtroom dramas down very , very low .
+0	The film is itself a sort of cinematic high crime , one that brings military courtroom dramas down very , very low .
 
 0	Nothing more than a mediocre trifle .
 
@@ -2602,21 +2602,21 @@
 
 0	Dawdles and drags when it should pop ; it does n't even have the virtue of enough mindless violence to break up the tedium of all its generational bonding .
 
-0	Its save-the-planet message clashes with its crass marketing .
+1	Its save-the-planet message clashes with its crass marketing .
 
 0	A great idea becomes a not-great movie .
 
-0	... watching this film nearly provoked me to take my own life .
+1	... watching this film nearly provoked me to take my own life .
 
 1	And if The Hours wins ` Best Picture ' I just might .
 
 0	By the end , I was looking for something hard with which to bludgeon myself unconscious .
 
-0	Not a movie but a live-action agitprop cartoon so shameless and coarse , it 's almost funny .
+1	Not a movie but a live-action agitprop cartoon so shameless and coarse , it 's almost funny .
 
 0	Feels like six different movies fighting each other for attention .
 
-1	Life is a crock -- or something like it .
+0	Life is a crock -- or something like it .
 
 0	Made by jackasses for jackasses .
 
@@ -2630,9 +2630,9 @@
 
 0	A bravura exercise in emptiness .
 
-0	Philip K. Dick must be turning in his grave , along with my stomach .
+1	Philip K. Dick must be turning in his grave , along with my stomach .
 
-1	Despite the premise of a good story ... it wastes all its star power on cliched or meaningless roles .
+0	Despite the premise of a good story ... it wastes all its star power on cliched or meaningless roles .
 
 0	Not only does the movie fail to make us part of its reality , it fails the most basic relevancy test as well .
 
@@ -2648,17 +2648,17 @@
 
 0	So routine , familiar and predictable , it raises the possibility that it wrote itself as a newly automated Final Draft computer program .
 
-1	Sunshine State lacks the kind of dynamic that Limbo offers , and in some ways is a rather indulgent piece .
+0	Sunshine State lacks the kind of dynamic that Limbo offers , and in some ways is a rather indulgent piece .
 
 0	Even legends like Alfred Hitchcock and John Huston occasionally directed trifles ... so it 's no surprise to see a world-class filmmaker like Zhang Yimou behind the camera for a yarn that 's ultimately rather inconsequential .
 
 0	A long-winded , predictable scenario .
 
-1	Too close to Phantom Menace for comfort .
+0	Too close to Phantom Menace for comfort .
 
 0	Although trying to balance self-referential humor and a normal ol' slasher plot seemed like a decent endeavor , the result does n't fully satisfy either the die-hard Jason fans or those who can take a good joke .
 
-1	Too clunky and too busy ribbing itself to be truly entertaining .
+0	Too clunky and too busy ribbing itself to be truly entertaining .
 
 1	It smacks of purely commercial motivation , with no great love for the original .
 
@@ -2692,7 +2692,7 @@
 
 0	If you 're looking for comedy to be served up , better look elsewhere .
 
-0	It virtually defines a comedy that 's strongly mediocre , with funny bits surfacing every once in a while .
+1	It virtually defines a comedy that 's strongly mediocre , with funny bits surfacing every once in a while .
 
 0	An instant candidate for worst movie of the year .
 
@@ -2702,7 +2702,7 @@
 
 1	What kids will discover is a new collectible .
 
-0	What parents will suspect is that they 're watching a 76-minute commercial .
+1	What parents will suspect is that they 're watching a 76-minute commercial .
 
 0	Without September 11 , Collateral Damage would have been just another bad movie .
 
@@ -2744,7 +2744,7 @@
 
 0	Imagine if you will a Tony Hawk skating video interspliced with footage from Behind Enemy Lines and set to Jersey shore techno .
 
-1	Any film featuring young children threatened by a terrorist bomb can no longer pass as mere entertainment .
+0	Any film featuring young children threatened by a terrorist bomb can no longer pass as mere entertainment .
 
 1	The director 's twitchy sketchbook style and adroit perspective shifts grow wearisome amid leaden pacing and indifferent craftsmanship -LRB- most notably wretched sound design -RRB- .
 
@@ -2768,7 +2768,7 @@
 
 0	All the characters are stereotypes , and their interaction is numbingly predictable .
 
-0	A trashy , exploitative , thoroughly unpleasant experience .
+1	A trashy , exploitative , thoroughly unpleasant experience .
 
 0	The performances are so leaden , Michael Rymer 's direction is so bloodless and the dialogue is so corny that the audience laughs out loud .
 
@@ -2786,7 +2786,7 @@
 
 0	Ridiculous .
 
-1	What 's next ?
+0	What 's next ?
 
 0	The movie 's biggest offense is its complete and utter lack of tension .
 
@@ -2824,7 +2824,7 @@
 
 1	Credit must be given to Harland Williams , Michael Rosenbaum and Barry Watson , who inject far more good-natured spirit and talent into this project than it deserves
 
-1	Denzel Washington 's efforts are sunk by all the sanctimony .
+0	Denzel Washington 's efforts are sunk by all the sanctimony .
 
 0	If this holiday movie is supposed to be a gift , somebody unwrapped it early , took out all the good stuff , and left behind the crap -LRB- literally -RRB- .
 
@@ -2838,7 +2838,7 @@
 
 0	The movie has very little to offer besides unintentional laughs .
 
-1	Guided more by intellect than heart , his story flattens instead of sharpens .
+0	Guided more by intellect than heart , his story flattens instead of sharpens .
 
 0	All the well-meaningness in the world ca n't erase the fact that The Believer feels like a 12-Step Program for the Jewish Nazi .
 
@@ -2870,9 +2870,9 @@
 
 0	Quick : who wants to see a comedy about shoddy airport security ?
 
-0	What you get with Empire is a movie you 've seen many times before , repackaged as new material because there is a Latino in the lead .
+1	What you get with Empire is a movie you 've seen many times before , repackaged as new material because there is a Latino in the lead .
 
-1	Cho 's fans are sure to be entertained ; it 's only fair in the interest of full disclosure to say that -- on the basis of this film alone -- I 'm not one of them .
+0	Cho 's fans are sure to be entertained ; it 's only fair in the interest of full disclosure to say that -- on the basis of this film alone -- I 'm not one of them .
 
 0	Looks awfully like one long tourist spot for a Mississippi that may never have existed outside of a scriptwriter 's imagination .
 
@@ -2904,7 +2904,7 @@
 
 0	Just one more collection of penis , breast and flatulence gags in search of a story .
 
-1	Or some damn thing .
+0	Or some damn thing .
 
 0	The acting is stiff , the story lacks all trace of wit , the sets look like they were borrowed from Gilligan 's Island -- and the CGI Scooby might well be the worst special-effects creation of the year .
 
@@ -2912,7 +2912,7 @@
 
 0	The makers have forsaken the entertaining elements of the original and , instead , rehash old jokes and leave any life at the doorstep .
 
-1	I like Frank the Pug , though .
+0	I like Frank the Pug , though .
 
 1	Gee , a second assassin shot Kennedy ?
 
@@ -2930,7 +2930,7 @@
 
 1	The episodic film makes valid points about the depersonalization of modern life .
 
-0	But the characters tend to be cliches whose lives are never fully explored .
+1	But the characters tend to be cliches whose lives are never fully explored .
 
 1	Serry does a fine job of capturing the climate of the times and , perhaps unwittingly , relating it to what is happening in America in 2002 .
 
@@ -2938,7 +2938,7 @@
 
 1	Do n't let your festive spirit go this far .
 
-0	Though the book runs only about 300 pages , it is so densely packed ... that even an ambitious adaptation and elaborate production like Mr. Schepisi 's seems skimpy and unclear .
+1	Though the book runs only about 300 pages , it is so densely packed ... that even an ambitious adaptation and elaborate production like Mr. Schepisi 's seems skimpy and unclear .
 
 0	Intended to be a comedy about relationships , this wretched work falls flat in just about every conceivable area .
 
@@ -2948,13 +2948,13 @@
 
 0	Suggests puns about ingredients and soup and somebody being off their noodle , but let 's just say the ingredients do n't quite add up to a meal .
 
-1	I 'd give real money to see the perpetrators of Chicago torn apart by dingoes .
+0	I 'd give real money to see the perpetrators of Chicago torn apart by dingoes .
 
 0	The timing in nearly every scene seems a half beat off .
 
-0	A fairly by-the-books blend of action and romance with sprinklings of intentional and unintentional comedy .
+1	A fairly by-the-books blend of action and romance with sprinklings of intentional and unintentional comedy .
 
-1	Flounders due to the general sense that no two people working on the production had exactly the same thing in mind .
+0	Flounders due to the general sense that no two people working on the production had exactly the same thing in mind .
 
 0	The story bogs down in a mess of purposeless violence .
 
@@ -2966,15 +2966,15 @@
 
 0	Another big , dumb action movie in the vein of XXX , The Transporter is riddled with plot holes big enough for its titular hero to drive his sleek black BMW through .
 
-1	When she speaks , her creepy Egyptian demigod voice is as computer processed and overproduced as it was in her music .
+0	When she speaks , her creepy Egyptian demigod voice is as computer processed and overproduced as it was in her music .
 
-1	Outrageousness is all Plympton seemed to be going for this time .
+0	Outrageousness is all Plympton seemed to be going for this time .
 
 1	We miss the quirky amazement that used to come along for an integral part of the ride .
 
 0	Much of what is meant to be ` inspirational ' and ` uplifting ' is simply distasteful to audiences not already sharing -LRB- the movie 's -RRB- mindset .
 
-1	Home Alone goes Hollywood , a funny premise until the kids start pulling off stunts not even Steven Spielberg would know how to do .
+0	Home Alone goes Hollywood , a funny premise until the kids start pulling off stunts not even Steven Spielberg would know how to do .
 
 0	For me , this opera is n't a favorite , so it 's a long time before the fat lady sings .
 
@@ -2984,7 +2984,7 @@
 
 0	Abandons all pretense of creating historical context and waltzes off into a hectic soap about the ups and downs of the heavy breathing between the two artists .
 
-1	Even die-hard fans of Japanese animation ... will find this one a challenge .
+0	Even die-hard fans of Japanese animation ... will find this one a challenge .
 
 0	Filmmakers have to dig deep to sink this low .
 
@@ -3000,13 +3000,13 @@
 
 0	I was perplexed to watch it unfold with an astonishing lack of passion or uniqueness .
 
-0	K-19 may not hold a lot of water as a submarine epic , but it holds even less when it turns into an elegiacally soggy Saving Private Ryanovich .
+1	K-19 may not hold a lot of water as a submarine epic , but it holds even less when it turns into an elegiacally soggy Saving Private Ryanovich .
 
 0	A very stylish but ultimately extremely silly tale ... a slick piece of nonsense but nothing more .
 
 0	Automatically pegs itself for the straight-to-video sci-fi rental shelf .
 
-0	The film is like a series of beginnings and middles that never take off .
+1	The film is like a series of beginnings and middles that never take off .
 
 0	Feels less like it 's about teenagers , than it was written by teenagers .
 
@@ -3032,7 +3032,7 @@
 
 0	A gob of drivel so sickly sweet , even the eager consumers of Moore 's pasteurized ditties will retch it up like rancid crème brûlée .
 
-0	Maudlin and melodramatic we expected .
+1	Maudlin and melodramatic we expected .
 
 0	Boring we did n't .
 
@@ -3040,11 +3040,11 @@
 
 0	It almost plays like Solaris , but with guns and jokes .
 
-1	A baffling misfire , and possibly the weakest movie -LRB- Woody Allen -RRB- has made in the last twenty years .
+0	A baffling misfire , and possibly the weakest movie -LRB- Woody Allen -RRB- has made in the last twenty years .
 
 0	It wo n't be long before you 'll spy I Spy at a video store near you .
 
-1	This film looks like it was produced in 1954 , shelved for 48 years , and repackaged for a 2002 audience .
+0	This film looks like it was produced in 1954 , shelved for 48 years , and repackaged for a 2002 audience .
 
 0	Propelled not by characters but by caricatures .
 
@@ -3060,7 +3060,7 @@
 
 0	A predictable and stereotypical little B-movie .
 
-1	If I Spy were funny -LRB- enough -RRB- or exciting -LRB- enough -RRB- then it would be fairly simple to forgive the financial extortion it 's trying to reap from the moviegoing public .
+0	If I Spy were funny -LRB- enough -RRB- or exciting -LRB- enough -RRB- then it would be fairly simple to forgive the financial extortion it 's trying to reap from the moviegoing public .
 
 1	Frustratingly , Dridi tells us nothing about El Gallo other than what emerges through his music .
 
@@ -3090,7 +3090,7 @@
 
 0	When it comes to entertainment , children deserve better than Pokemon 4Ever .
 
-0	While Benigni -LRB- who stars and co-wrote -RRB- seems to be having a wonderful time , he might be alone in that .
+1	While Benigni -LRB- who stars and co-wrote -RRB- seems to be having a wonderful time , he might be alone in that .
 
 0	Preposterous and tedious , Sonny is spiked with unintentional laughter that , unfortunately , occurs too infrequently to make the film even a guilty pleasure .
 
@@ -3120,9 +3120,9 @@
 
 0	Most of the action setups are incoherent .
 
-0	Liman , of Swingers and Go , makes his big-budget action film debut something of a clunker as he delivers a long , low-heat chase , interrupted by a middling car chase .
+1	Liman , of Swingers and Go , makes his big-budget action film debut something of a clunker as he delivers a long , low-heat chase , interrupted by a middling car chase .
 
-1	... surprisingly inert for a movie in which the main character travels back and forth between epochs .
+0	... surprisingly inert for a movie in which the main character travels back and forth between epochs .
 
 0	The problem is n't that the movie hits so close to home so much as that it hits close to home while engaging in such silliness as that snake-down-the-throat business and the inevitable shot of Schwarzenegger outrunning a fireball .
 
@@ -3142,7 +3142,7 @@
 
 1	Shocking only in that it reveals the filmmaker 's bottomless pit of self-absorption .
 
-1	This pep-talk for faith , hope and charity does little to offend , but if saccharine earnestness were a crime , the film 's producers would be in the clink for life .
+0	This pep-talk for faith , hope and charity does little to offend , but if saccharine earnestness were a crime , the film 's producers would be in the clink for life .
 
 1	All ends well , sort of , but the frenzied comic moments never click .
 
@@ -3180,7 +3180,7 @@
 
 1	The low-budget Full Frontal was one of the year 's murkiest , intentionally obscure and self-indulgent pictures , and Solaris is its big-budget brother .
 
-1	The plot is very clever , but Boyd weighs it down with too many characters and events , all intertwined and far too complicated to keep track of .
+0	The plot is very clever , but Boyd weighs it down with too many characters and events , all intertwined and far too complicated to keep track of .
 
 1	A free-for-all of half-baked thoughts , clumsily used visual tricks and self-indulgent actor moments .
 
@@ -3214,7 +3214,7 @@
 
 0	fear dot com is so rambling and disconnected it never builds any suspense .
 
-0	It feels like a community theater production of a great Broadway play : Even at its best , it will never hold a candle to the original .
+1	It feels like a community theater production of a great Broadway play : Even at its best , it will never hold a candle to the original .
 
 0	It 's the kind of movie you ca n't quite recommend because it is all windup and not much of a pitch , yet you ca n't bring yourself to dislike it .
 
@@ -3232,7 +3232,7 @@
 
 0	Ecks this one off your must-see list .
 
-1	Overall , the film misses the brilliance of Jelinek 's novel by some way .
+0	Overall , the film misses the brilliance of Jelinek 's novel by some way .
 
 0	It settles for being merely grim .
 
@@ -3260,11 +3260,11 @@
 
 0	A great ending does n't make up for a weak movie , and Crazy as Hell does n't even have a great ending .
 
-1	Dialogue-heavy and too cerebral for its own good -- or , at any rate , too cerebral for its racy subject matter .
+0	Dialogue-heavy and too cerebral for its own good -- or , at any rate , too cerebral for its racy subject matter .
 
 1	Its over-reliance on genre conventions , character types and formulaic conflict resolutions crushes all the goodwill it otherwise develops .
 
-1	As an actor , The Rock is aptly named .
+0	As an actor , The Rock is aptly named .
 
 0	A mostly tired retread of several other mob tales .
 
@@ -3284,7 +3284,7 @@
 
 0	I tried to read the time on my watch .
 
-1	The film makes a tragic error by going on for too long , trying to mirror every subsequent event in Chinese history : war , revolution , Communism , etc. .
+0	The film makes a tragic error by going on for too long , trying to mirror every subsequent event in Chinese history : war , revolution , Communism , etc. .
 
 0	Ultimately the project comes across as clinical , detached , uninvolving , possibly prompting audience members to wonder , ` What 's the point ? '
 
@@ -3306,7 +3306,7 @@
 
 0	Just a bloody mess .
 
-1	Creepy but ultimately unsatisfying thriller .
+0	Creepy but ultimately unsatisfying thriller .
 
 0	You would be better off investing in the worthy EMI recording that serves as the soundtrack , or the home video of the 1992 Malfitano-Domingo production .
 
@@ -3316,7 +3316,7 @@
 
 1	George , hire a real director and good writers for the next installment , please .
 
-0	For a film about two mismatched buddies , Crystal and De Niro share little screen time and even less chemistry .
+1	For a film about two mismatched buddies , Crystal and De Niro share little screen time and even less chemistry .
 
 1	Extreme Oops - oops , ops , no matter how you spell it , it 's still a mistake to go see it .
 
@@ -3336,7 +3336,7 @@
 
 1	It 's all very cute , though not terribly funny if you 're more than six years old .
 
-1	The impact of the Armenian genocide is diluted by too much stage business in the modern day .
+0	The impact of the Armenian genocide is diluted by too much stage business in the modern day .
 
 1	Going to the website may be just as fun -LRB- and scary -RRB- as going to the film .
 
@@ -3344,19 +3344,19 @@
 
 0	Leave these Flowers unpicked -- they 're dead on the vine .
 
-1	For Caine Lovers only .
+0	For Caine Lovers only .
 
 0	A shambles of a movie -- visually unattractive , unbearably loud and utterly silly ... its hilarity is completely unintentional .
 
-1	De Niro may enjoy the same free ride from critics afforded to Clint Eastwood in the lazy Bloodwork .
+0	De Niro may enjoy the same free ride from critics afforded to Clint Eastwood in the lazy Bloodwork .
 
 0	But like Bruce Springsteen 's gone-to-pot Asbury Park , New Jersey , this sad-sack waste of a movie is a City of ruins .
 
-1	No , it 's not nearly as good as any of its influences .
+0	No , it 's not nearly as good as any of its influences .
 
 1	Human Nature talks the talk , but it fails to walk the silly walk that distinguishes the merely quirky from the surreal .
 
-1	City by the Sea is the cinematic equivalent of defensive driving : It 's careful , conscientious and makes no major mistakes .
+0	City by the Sea is the cinematic equivalent of defensive driving : It 's careful , conscientious and makes no major mistakes .
 
 1	But what saves lives on the freeway does not necessarily make for persuasive viewing .
 
@@ -3372,7 +3372,7 @@
 
 0	It 's so full of wrong choices that all you can do is shake your head in disbelief -- and worry about what classic Oliver Parker intends to mangle next time .
 
-1	Showtime is closer to Slowtime .
+0	Showtime is closer to Slowtime .
 
 1	It may be an easy swipe to take , but this Barbershop just does n't make the cut .
 
@@ -3402,13 +3402,13 @@
 
 0	Maybe I found the proceedings a little bit too conventional .
 
-1	Too timid to bring a sense of closure to an ugly chapter of the twentieth century .
+0	Too timid to bring a sense of closure to an ugly chapter of the twentieth century .
 
 1	It 's push-the-limits teen comedy , the type written by people who ca n't come up with legitimate funny , and it 's used so extensively that good bits are hopelessly overshadowed .
 
 0	A movie that tries to fuse the two ` woods ' but winds up a Bolly-Holly masala mess .
 
-0	Mr. Wedge and Mr. Saldanha handle the mix of verbal jokes and slapstick well .
+1	Mr. Wedge and Mr. Saldanha handle the mix of verbal jokes and slapstick well .
 
 0	Their film falters , however , in its adherence to the Disney philosophy of required poignancy , a salute that I 'd hoped the movie would avoid .
 
@@ -3458,9 +3458,9 @@
 
 1	I weep for the future when a good portion of the respected critical community in this country consider Blue Crush to be an intelligent film about young women .
 
-1	I kept wishing I was watching a documentary about the wartime Navajos and what they accomplished instead of all this specious Hollywood hoo-ha .
+0	I kept wishing I was watching a documentary about the wartime Navajos and what they accomplished instead of all this specious Hollywood hoo-ha .
 
-1	No number of fantastic sets , extras , costumes and spectacular locales can disguise the emptiness at the center of the story .
+0	No number of fantastic sets , extras , costumes and spectacular locales can disguise the emptiness at the center of the story .
 
 0	A movie far more cynical and lazy than anything a fictitious Charlie Kaufman might object to .
 
@@ -3562,7 +3562,7 @@
 
 1	The best way to hope for any chance of enjoying this film is by lowering your expectations .
 
-1	Then lower them a bit more .
+0	Then lower them a bit more .
 
 0	Cliches are as thick as the cigarette smoke .
 
@@ -3576,7 +3576,7 @@
 
 1	Watching the film is like reading a Times Portrait of Grief that keeps shifting focus to the journalist who wrote it .
 
-0	Enough similarities to Gymkata and Howie Long 's Firestorm that my fingernails instinctively crawled towards my long-suffering eyeballs .
+1	Enough similarities to Gymkata and Howie Long 's Firestorm that my fingernails instinctively crawled towards my long-suffering eyeballs .
 
 1	Succeeds in providing a disquiet world the long-dreaded completion of the Police Academy series .
 
@@ -3596,7 +3596,7 @@
 
 0	While the mystery surrounding the nature of the boat 's malediction remains intriguing enough to sustain mild interest , the picture refuses to offer much accompanying sustenance in the way of characterization , humor or plain old popcorn fun .
 
-1	I regret to report that these ops are just not extreme enough .
+0	I regret to report that these ops are just not extreme enough .
 
 1	The actors are forced to grapple with hazy motivations that never come into focus .
 
@@ -3608,7 +3608,7 @@
 
 0	The Master Of Disaster - it 's a piece of dreck disguised as comedy .
 
-0	The film has a few cute ideas and several modest chuckles but it is n't exactly kiddie-friendly ... Alas , Santa is more ho-hum than ho-ho-ho and the Snowman -LRB- who never gets to play that flute -RRB- has all the charm of a meltdown .
+1	The film has a few cute ideas and several modest chuckles but it is n't exactly kiddie-friendly ... Alas , Santa is more ho-hum than ho-ho-ho and the Snowman -LRB- who never gets to play that flute -RRB- has all the charm of a meltdown .
 
 0	The stupidest , most insulting movie of 2002 's first quarter .
 
@@ -3622,7 +3622,7 @@
 
 0	Fails to bring as much to the table .
 
-0	A film made with as little wit , interest , and professionalism as artistically possible for a slummy Hollywood caper flick .
+1	A film made with as little wit , interest , and professionalism as artistically possible for a slummy Hollywood caper flick .
 
 0	Disturbingly superficial in its approach to the material .
 
